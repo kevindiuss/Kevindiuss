@@ -1,4 +1,4 @@
-![Banner KD Developer](./kdplan.jfif)
+![Banner KD Developer](./kddeveloper.png)
 
 ## Hi there 👋
 
