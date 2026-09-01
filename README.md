@@ -2,7 +2,18 @@
 
 ## Hi there 👋
 
-Ingeniero de Software con sólida experiencia en el análisis, modelado y visualización de información utilizando Power BI y Python. Experto en el diseño de dashboards interactivos, automatización de procesos de limpieza y transformación de datos, y desarrollo de soluciones analíticas que impulsan la toma de decisiones estratégicas. Enfocado en traducir datos complejos en información accionable que optimiza procesos de negocio y genera valor medible para la organización.
+Desarrollador de software con enfoque en **backend** y **análisis de datos**, apasionado por construir aplicaciones eficientes y transformar datos en decisiones estratégicas.
+
+#### 🛠️ Stack principal
+- **Backend:** Python, Django
+- **Bases de datos:** SQL
+- **Análisis y visualización:** Power BI
+
+#### 💡 Lo que hago
+- Diseño y desarrollo aplicaciones web con Django siguiendo buenas prácticas de arquitectura.
+- Modelo y optimizo bases de datos relacionales con SQL.
+- Construyo dashboards e informes interactivos en Power BI para apoyar la toma de decisiones.
+
 
 
 
