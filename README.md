@@ -1,4 +1,4 @@
-![Banner KD Developer](./kddeveloper.png)
+![Banner KD Developer](./kevindiuss.png)
 
 ## Hi there 👋
 
