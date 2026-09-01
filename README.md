@@ -2,23 +2,7 @@
 
 Ingeniero de Software con sólida experiencia en el análisis, modelado y visualización de información utilizando Excel, Power BI y Python. Experto en el diseño de dashboards interactivos, automatización de procesos de limpieza y transformación de datos, y desarrollo de soluciones analíticas que impulsan la toma de decisiones estratégicas. Enfocado en traducir datos complejos en información accionable que optimiza procesos de negocio y genera valor medible para la organización.
 
-### Hi there, I'm [Durgesh Samariya](https://durgeshsamariya.github.io) 👋
 
-I completed my PhD in Machine Learning from [Federation University](https://federation.edu.au), Australia. Apart from that, I am a seasonal ML developer who loves writing articles (on Machine Learning, Data Science, Productivity and PhD Tips) and contributing to open source.
-
-**My Research Interest**:
-- Outlying Aspect Mining
-- Classification
-- Clustering
-- Anomaly Detection
-- Similarity Measure
-
- **I am open to**:
-
-- any collaboration work,
-- machine learning projects(development or research),
-- research internships and
-- available to become a reviewer or PC member for Machine Learning/Data mining journals or conferences.
 
 ## Skills:
 
